@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Soumyadeep.
+- 👋 Hi, I’m Soumyadeep from WB, India.
+- 👨🏻‍🎓 I have pursued my Masters in Computer Science.
 - 👀 I’m interested in Coding, Algorithms, Painting, Music, Gaming, Football, and Tennis.
-- 🌱 I’m currently pursuing my MS in Computer Science.
 - 💞️ I’m looking to collaborate on Machine Learning, AI, Java, and Python.
 - 📫 Reach me at soumyanag16@gmail.com
 
