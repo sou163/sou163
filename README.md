@@ -5,19 +5,19 @@
 <br><br>
 <img align="right" alt="Coding" src="https://cdn.videoplasty.com/animation/midnight-coding-late-night-session-lofi-animation-stock-animation-51917-1024x576.jpg" width="400" height="250">
 
-- 🌱 I’m currently learning **frontend development and data analysis**
+- 🌱 I’m currently learning **Frontend Development and Data Analytics.**
 
-- 💬 Ask me about **React, Machine Learning, and Python**
+- 💬 Ask me about **React, Machine Learning, and Python.**
 
-- 📫 How to reach me **soumyanag16@gmail.com**
+- 📫 Reach me at **soumyanag16@gmail.com**
 
-- ⚡ Fun fact **I prefer tea over coffee.**
+- ⚡ Fun fact about me: **I love taking tea-breaks in between work.😄**
 
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/soumyadeep-nag-766954237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumyadeep-nag-766954237" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sou163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sou163" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/soumyadeep-nag-766954237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumyadeep-nag-766954237" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://codesandbox.com/sou163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sou163" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://instagram.com/_.soumya_deep._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.soumya_deep._" height="30" width="40" /></a>
 </p>
 <br>
